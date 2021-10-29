@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfBankCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BankCard>
+    <Name>Petya</Name>
+    <Surname>Petrov</Surname>
+    <Login>Petrov@gmail.com</Login>
+    <Password>petyapasswor23</Password>
+    <Age>28</Age>
+    <BankName>A-Bank</BankName>
+    <CardExpiryDate>
+      <Day>21</Day>
+      <Month>9</Month>
+      <Year>2017</Year>
+    </CardExpiryDate>
+    <CardNumber>432089723</CardNumber>
+    <AuthenticationCode>527</AuthenticationCode>
+  </BankCard>
+</ArrayOfBankCard>

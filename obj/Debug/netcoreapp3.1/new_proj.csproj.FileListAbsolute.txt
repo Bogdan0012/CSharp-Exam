@@ -1,0 +1,26 @@
+C:\Users\Бодя\Desktop\new_proj\obj\Debug\netcoreapp3.1\new_proj.csprojAssemblyReference.cache
+C:\Users\Бодя\Desktop\new_proj\obj\Debug\netcoreapp3.1\new_proj.AssemblyInfoInputs.cache
+C:\Users\Бодя\Desktop\new_proj\obj\Debug\netcoreapp3.1\new_proj.AssemblyInfo.cs
+C:\Users\Бодя\Desktop\new_proj\obj\Debug\netcoreapp3.1\new_proj.csproj.CoreCompileInputs.cache
+C:\Users\Бодя\Desktop\new_proj\bin\Debug\netcoreapp3.1\new_proj.exe
+C:\Users\Бодя\Desktop\new_proj\bin\Debug\netcoreapp3.1\new_proj.deps.json
+C:\Users\Бодя\Desktop\new_proj\bin\Debug\netcoreapp3.1\new_proj.runtimeconfig.json
+C:\Users\Бодя\Desktop\new_proj\bin\Debug\netcoreapp3.1\new_proj.runtimeconfig.dev.json
+C:\Users\Бодя\Desktop\new_proj\bin\Debug\netcoreapp3.1\new_proj.dll
+C:\Users\Бодя\Desktop\new_proj\bin\Debug\netcoreapp3.1\new_proj.pdb
+C:\Users\Бодя\Desktop\new_proj\obj\Debug\netcoreapp3.1\new_proj.dll
+C:\Users\Бодя\Desktop\new_proj\obj\Debug\netcoreapp3.1\new_proj.pdb
+C:\Users\Бодя\Desktop\new_proj\obj\Debug\netcoreapp3.1\new_proj.genruntimeconfig.cache
+E:\ITSTEP works\Works\new_proj\bin\Debug\netcoreapp3.1\new_proj.exe
+E:\ITSTEP works\Works\new_proj\bin\Debug\netcoreapp3.1\new_proj.deps.json
+E:\ITSTEP works\Works\new_proj\bin\Debug\netcoreapp3.1\new_proj.runtimeconfig.json
+E:\ITSTEP works\Works\new_proj\bin\Debug\netcoreapp3.1\new_proj.runtimeconfig.dev.json
+E:\ITSTEP works\Works\new_proj\bin\Debug\netcoreapp3.1\new_proj.dll
+E:\ITSTEP works\Works\new_proj\bin\Debug\netcoreapp3.1\new_proj.pdb
+E:\ITSTEP works\Works\new_proj\obj\Debug\netcoreapp3.1\new_proj.csprojAssemblyReference.cache
+E:\ITSTEP works\Works\new_proj\obj\Debug\netcoreapp3.1\new_proj.AssemblyInfoInputs.cache
+E:\ITSTEP works\Works\new_proj\obj\Debug\netcoreapp3.1\new_proj.AssemblyInfo.cs
+E:\ITSTEP works\Works\new_proj\obj\Debug\netcoreapp3.1\new_proj.csproj.CoreCompileInputs.cache
+E:\ITSTEP works\Works\new_proj\obj\Debug\netcoreapp3.1\new_proj.dll
+E:\ITSTEP works\Works\new_proj\obj\Debug\netcoreapp3.1\new_proj.pdb
+E:\ITSTEP works\Works\new_proj\obj\Debug\netcoreapp3.1\new_proj.genruntimeconfig.cache
